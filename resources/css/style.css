@@ -1,3 +1,48 @@
 * {
-	background: red;
+	background: black;
+	color: white;
+	font-style: Verdana;
+}
+
+h1 {
+	font-size: 50px;
+	text-align: center;
+}
+
+#cell {
+	text-align: center;
+}
+
+#video {
+	align-content: center;
+}
+
+#text1{
+	color:gray;
+	font-size: 21px;
+}
+
+#description {
+	text-align: center;
+	font-weight: 300;
+	font-size: 42px;
+}
+
+#firstContent {
+	text-align: center;
+}
+
+#link {
+	text-align: center;
+	color: aquamarine;
+	font-size: 16px;
+}
+
+#soon {
+	text-align:center;
+}
+
+footer {
+	text-align: right;
+	color: gray;
 }
